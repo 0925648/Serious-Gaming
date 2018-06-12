@@ -15,7 +15,6 @@ namespace Serious_Gaming_Local
     public Form1()
     {
       InitializeComponent();
-      
     }
 
     private void Form1_Load(object sender, EventArgs e)
@@ -25,10 +24,7 @@ namespace Serious_Gaming_Local
 
     private void button1_Click(object sender, EventArgs e)
     {
-      var Form1 = new Form1();
-      var Form2 = new Form2();
-      Form1.Hide();
-      Form2.Show();
+
     }
 
     private void button1_MouseEnter(object sender, EventArgs e)
