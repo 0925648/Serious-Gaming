@@ -1,0 +1,10 @@
+D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\bin\Debug\Serious-Gaming-Local.exe.config
+D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\bin\Debug\Serious-Gaming-Local.exe
+D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\bin\Debug\Serious-Gaming-Local.pdb
+D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.csprojAssemblyReference.cache
+D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious_Gaming_Local.Form1.resources
+D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious_Gaming_Local.Properties.Resources.resources
+D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.csproj.GenerateResource.cache
+D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.csproj.CoreCompileInputs.cache
+D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.exe
+D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.pdb
