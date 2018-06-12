@@ -8,3 +8,13 @@ D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Ga
 D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.csproj.CoreCompileInputs.cache
 D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.exe
 D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.pdb
+C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\bin\Debug\Serious-Gaming-Local.exe.config
+C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\bin\Debug\Serious-Gaming-Local.exe
+C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\bin\Debug\Serious-Gaming-Local.pdb
+C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.csprojAssemblyReference.cache
+C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious_Gaming_Local.Form1.resources
+C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious_Gaming_Local.Properties.Resources.resources
+C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.csproj.GenerateResource.cache
+C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.csproj.CoreCompileInputs.cache
+C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.exe
+C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.pdb
