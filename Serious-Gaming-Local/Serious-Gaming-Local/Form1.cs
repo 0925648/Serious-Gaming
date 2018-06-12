@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace Serious_Gaming_Local
 {
+
   public partial class Form1 : Form
   {
     public Form1()
     {
       InitializeComponent();
+
       
     }
 
@@ -27,7 +29,7 @@ namespace Serious_Gaming_Local
     {
       var Form1 = new Form1();
       var Form2 = new Form2();
-      Form1.Hide();
+      this.Hide();
       Form2.Show();
     }
 
