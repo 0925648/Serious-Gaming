@@ -37,5 +37,10 @@ namespace Serious_Gaming_Local
       Form1.Show();
 
     }
+
+    private void label1_Click(object sender, EventArgs e)
+    {
+
+    }
   }
 }

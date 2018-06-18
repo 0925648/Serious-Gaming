@@ -42,15 +42,18 @@
       // 
       // label1
       // 
-      this.label1.AutoSize = true;
+      this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
+      this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
       this.label1.Location = new System.Drawing.Point(359, 9);
       this.label1.Name = "label1";
-      this.label1.Size = new System.Drawing.Size(85, 17);
+      this.label1.Size = new System.Drawing.Size(300, 50);
       this.label1.TabIndex = 2;
       this.label1.Text = "Categorieën";
+      this.label1.Click += new System.EventHandler(this.label1_Click);
       // 
       // button1
       // 
+      this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
       this.button1.Location = new System.Drawing.Point(12, 386);
       this.button1.Name = "button1";
       this.button1.Size = new System.Drawing.Size(153, 52);
@@ -70,7 +73,6 @@
       this.Text = "Form2";
       this.Load += new System.EventHandler(this.Form2_Load);
       this.ResumeLayout(false);
-      this.PerformLayout();
 
     }
 
