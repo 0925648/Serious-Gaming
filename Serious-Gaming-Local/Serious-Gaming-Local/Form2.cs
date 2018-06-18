@@ -45,7 +45,9 @@ namespace Serious_Gaming_Local
 
     private void button2_Click(object sender, EventArgs e)
     {
-
+      var Form3 = new Form3();
+      this.Hide();
+      Form3.Show();
     }
 
     private void button4_Click(object sender, EventArgs e)

@@ -71,5 +71,10 @@ namespace Serious_Gaming_Local
     {
       button3.BackColor = Color.White;
     }
+
+    private void pictureBox1_Click(object sender, EventArgs e)
+    {
+
+    }
   }
 }
