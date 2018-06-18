@@ -108,9 +108,9 @@
     <None Include="Properties\Images\Honden\pexels-photo-58997.jpg" />
     <None Include="Properties\Images\Honden\pexels-photo-356378.jpg" />
     <None Include="Properties\Images\Honden\pexels-photo-434090.jpg" />
-    <None Include="Properties\Images\lion-wildcat-safari-africa-47036.jpg" />
     <None Include="Properties\Images\Katten\pexels-photo-617278.jpg" />
     <None Include="Properties\Images\Katten\pexels-photo1.jpg" />
+    <None Include="Properties\Images\Leeuwen\pexels-photo-730536.jpg" />
     <Content Include="stempel-de-snor.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

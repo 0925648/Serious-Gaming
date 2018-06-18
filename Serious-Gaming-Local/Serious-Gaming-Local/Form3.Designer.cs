@@ -92,7 +92,6 @@
       // pictureBox2
       // 
       this.pictureBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
-      this.pictureBox2.Image = global::Serious_Gaming_Local.Properties.Resources.lion_wildcat_safari_africa_47036;
       this.pictureBox2.Location = new System.Drawing.Point(720, 366);
       this.pictureBox2.Name = "pictureBox2";
       this.pictureBox2.Size = new System.Drawing.Size(329, 204);
