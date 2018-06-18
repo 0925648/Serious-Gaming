@@ -16,9 +16,10 @@ namespace Serious_Gaming_Local
     public Form2()
     {
       InitializeComponent();
-    }
+      WindowState = FormWindowState.Maximized;
+        }
 
-    private void Form2_Load(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e)
     {
 
     }

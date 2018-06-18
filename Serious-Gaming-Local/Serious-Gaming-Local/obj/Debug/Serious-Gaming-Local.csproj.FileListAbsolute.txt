@@ -19,3 +19,4 @@ C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gami
 C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.exe
 C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious-Gaming-Local.pdb
 D:\Informatica Jaar 2\Keuzevakken\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious_Gaming_Local.Form2.resources
+C:\Users\okell\Documents\GitHub\Serious-Gaming\Serious-Gaming-Local\Serious-Gaming-Local\obj\Debug\Serious_Gaming_Local.Form2.resources
